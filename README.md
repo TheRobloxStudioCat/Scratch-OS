@@ -1,4 +1,4 @@
-# Scratch-OS
+
 <div align = "right">
-  <img src = ""></img>
+  <img src = "https://raw.githubusercontent.com/TheRobloxStudioCat/Scratch-OS/refs/heads/main/icon.svg"></img>
 </div>
